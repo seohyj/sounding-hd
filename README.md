@@ -1,6 +1,6 @@
 <h2 align="center"> <a href="https://arxiv.org/abs/2602.03891">Sounding Highlights: Dual-Pathway Audio Encoders for Audio-Visual Video Highlight Detection</a></h2>
 
-<h4 align="center"> Seohyun Joo, Yoori Oh </h4>
+<h4 align="center"> <a href="https://www.linkedin.com/in/seohyun-joo-36a56929b">Seohyun Joo</a>, <a href="https://yoori000.github.io">Yoori Oh</a> </h4>
 
 <h4 align="center"> [<a href="https://seohyj.github.io/soundhd.github.io/">🌐 Project Page</a>] [<a href="https://arxiv.org/pdf/2602.03891">📖 Paper</a>] [<a href="https://arxiv.org/abs/2602.03891">arXiv</a>] </h4>
 
