@@ -1,0 +1,12 @@
+syntax = "proto2";
+
+package youtube8m;
+
+message MatrixData {
+  // The dimensions of the matrix.
+  repeated int32 dims = 1;
+
+  // Feature data. Only one of the following two should be populated.
+  optional bytes byte_feature = 2;
+  repeated float float_feature = 3 [packed=true];
+}

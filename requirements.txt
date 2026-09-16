@@ -1,0 +1,22 @@
+# Core (training / evaluation / inference)
+torch==2.1.0
+torchaudio==2.1.0
+torchvision==0.16.0
+torchlibrosa==0.1.0
+numpy==1.26.4
+scipy==1.10.1
+scikit-learn==1.3.2
+pandas==2.0.3
+h5py==3.11.0
+tqdm==4.64.1
+opencv-python==4.11.0.86
+tensorboard==2.11.2
+
+# Feature-extraction preprocessing
+protobuf==3.19.6        # dataset/preprocess/pca_matrix_to_npy.py (Inception-v3 PCA matrices)
+yt-dlp>=2023.11.16      # dataset/crawler.py (Mr.HiSum video download)
+
+# Mr.HiSum visual features use InceptionV3 via Keras/TensorFlow
+# (dataset/preprocess/mrhisum_extract_visual_features.py). Not needed for TVSum.
+tensorflow==2.11.0
+keras==2.11.0

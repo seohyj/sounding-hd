@@ -1,0 +1,10 @@
+*.pth
+*.pt
+*.pdf
+/source_codes
+/ref_TAP
+/ref_UMT
+/ref_CSTA
+__pycache__
+/figs/*
+!/figs/architecture.png
