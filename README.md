@@ -122,7 +122,7 @@ If you find this work useful, please cite:
 @inproceedings{joo2026sounding,
   title={Sounding Highlights: Dual-Pathway Audio Encoders for Audio-Visual Video Highlight Detection},
   author={Joo, Seohyun and Oh, Yoori},
-  booktitle={IEEE International Conference on Acoustics, Speech and Signal Processing},
+  booktitle={ICASSP 2026-2026 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)},
   pages={13027--13031},
   year={2026},
   organization={IEEE}
